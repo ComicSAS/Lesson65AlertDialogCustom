@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lesson65AlertDialogCustom</string>
+    <string name="add">Добавить</string>
+    <string name="remove">Удалить</string>
+</resources>
